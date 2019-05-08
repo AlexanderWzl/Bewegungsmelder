@@ -161,6 +161,35 @@ Der Bewegungsmelder wird in die Wand eingebaut, deswegen wird weder Auf- noch Un
 | Batterien inbegriffen  | Nein               |
 | Batterien notwendig    | Nein               |
 
-Preis: ca 24,95 €
+## Preis: ca 24,95 €
 
 ---
+
+# LED IR Bewegungsmelder
+
+![Bewegungsmelder](https://images-na.ssl-images-amazon.com/images/I/810Wiarq%2BVL._SL1500_.jpg)
+
+| Artikelnummer          | 37201            |
+|------------------------|------------------|
+| Artikelgewicht         | 181 g            |
+| Verpackungsabmessungen | 14 x 10,8 x 7 cm |
+| Herstellerreferenz     | 37201            |
+| Farbe                  | 1. Prasenzmelder |
+| Volt                   | 230 Volt         |
+| Watt                   | 0.50             |
+| Batterien inbegriffen  | Nein             |
+| Batterien notwendig    | Nein             |
+
+Technische Daten: 
+- Für LED-Streifen und 12V DC LED Leuchtmittel geeignet 
+- Einfache Montage mittels Schraubklemmen (Schraubterminal) 
+- Stromversorgung: 12V DC maximal: 4 A (48W) 
+- Reichtweite: ca. 6 Meter / Arbeitsbereich: ca. 120° 
+- Maße (LxBxH): 76 x 45 x 34mm 
+- Gewicht: 32g 
+- Farbe: Schwarz / Weiß
+
+## Preis: 9,29€
+
+---
+
