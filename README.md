@@ -205,3 +205,26 @@ Technische Daten:
 * Inklusive deutscher Anleitung. Radar Bewegungssensor - Außerdem relevant oder passend zu: Dämmerungsschalter, Durchgangsmelder, Bewegungsmeldern, Lichtschranken, Lichtschranke, Aufputz 230v, Ultraschall, Microwellen, Mikrowelle, PIR Sensor, Personen, Erkennen, Schalter, Alarm, Lampe, Volt
 
 ## Preis: 14,90 €
+
+---
+
+# HUBER MOTION 8HF
+
+![Bewegungsmelder](https://images-na.ssl-images-amazon.com/images/I/71Syhb8m%2BLL._SL1500_.jpg)
+
+* Radar Bewegungsmelder 180° Erfassungsbereich 
+* Schutzart IP20 für den Innenbereich geeignet 
+* Schutzklasse II, schutzisoliert 
+* Schaltleistung max. 1200 W Glühbirne und 300W LED oder Energiesparlampen
+* Einschaltzeit von 10 s bis 12 min. einstellbar 
+* Ansprechempfindlichkeit bei Dämmerung von 3 bis 2000 Lux einstellbar 
+* Erfassungsreichweite bis 15 m einstellbar 
+* Mit Befestigungsmaterial und deutscher Bedienungsanleitung br>Einfacher Austausch des normalen Lichtschalters, Achtung es wird der Neutralleiter N benötigt 
+* 3-Drahttechnik 
+* Montagehöhe 1 – 5m, optimal 1 – 1,8m
+* Präzise und temperaturunabhängige Erkennung von Personen und Bewegung in der Dunkelheit oder im Zwielicht. Konzipiert für die einfache & schnelle Wandmontage in einer Unterputzdose
+* Nicht für Wechsel-oder Kreuzschaltung geeignet 
+
+* Mit dem Huber Radar Bewegungsmelder setzen Sie auf neuste Technologie zur Überwachung im Innenbereich. Schützen Sie den Bereich in Ihrem Haus, sorgen Sie für eine automatische Beleuchtung im Eingangsbereich, Keller, Flur oder Garage, die Einsatzmöglichkeiten sind nahezu unbeschränkt. 
+
+## Preis: 21,90€
