@@ -139,3 +139,28 @@ Der Bewegungsmelder wird in die Wand eingebaut, deswegen wird weder Auf- noch Un
 | Gewicht                | 99.8 Gramm                     |
 
 ## Preis: ca 19,95€
+
+---
+
+# HUBER MOTION 30
+![Huber Motion 30](https://images-na.ssl-images-amazon.com/images/I/31pmijVD5GL.jpg)
+
+* 360°Erfassungswinkel, Erfassungsreichweite max. 20 m Durchmesser
+* Dämmerungsempfindlichkeit einstellbar 3 bis 2000 Lux
+* Einschaltzeit einstellbar 10 s - 30 min
+* Schaltleistung 2000 W, 230 V, auch für LED und kleine Lasten kleiner 1 W
+
+| Marke                  | Huber Motion       |
+|------------------------|--------------------|
+| Artikelgewicht         | 141 g              |
+| Verpackungsabmessungen | 9,5 x 8,8 x 8,4 cm |
+| Herstellerreferenz     | 37141              |
+| Farbe                  | 1. Präsenzmelder   |
+| Volt                   | 230 Volt           |
+| Watt                   | 0.50               |
+| Batterien inbegriffen  | Nein               |
+| Batterien notwendig    | Nein               |
+
+Preis: ca 24,95 €
+
+---
