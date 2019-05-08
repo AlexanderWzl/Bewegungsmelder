@@ -192,4 +192,16 @@ Technische Daten:
 ## Preis: 9,29€
 
 ---
+# __**Radarsensor**__
+# revolt Bewegungsmelder
 
+![Bewegungsmelder](https://images-na.ssl-images-amazon.com/images/I/61eVcpkcO7L._SL1300_.jpg)
+
+
+* Zuverlässig und akkurat • Reagiert nur auf Menschen • Ideal für den Einsatz in Gebäuden und Hallen
+* Hochzuverlässiger Bewegungsmelder mit fortschrittlicher Radar-Technologie • Dämmerungssensor einstellbar von 2 bis 2.000 Lux Helligkeit • Strom für angeschlossene Lampen: bis max. 1200 Watt wird durchgeschleift und intern geschaltet • Minimale Abstrahlung: weniger als 10 mW • Einfache Wand oder Deckenmontage
+* Ideal für den Einsatz in Gebäuden und Hallen, Schutzklasse IP 20 • Reichweite einstellbar von ca. 2 bis 10 Meter • Einfachster Anschluss dank Klemmverschlüsse • Geringer Stromverbrauch: 0,9 W
+* Praktische Bedienelemente: Dämmerungssensor, Reichweite, Leuchtdauer nach Aktivierung • Leuchtdauer einstellbar von ca. 8 Sekunden bis 12 Minuten • Reichweite des Sensors: bis ca. 10 m, Erfassungswinkel: 360° • Stromversorgung wird von Durchschleifung abgenommen
+* Inklusive deutscher Anleitung. Radar Bewegungssensor - Außerdem relevant oder passend zu: Dämmerungsschalter, Durchgangsmelder, Bewegungsmeldern, Lichtschranken, Lichtschranke, Aufputz 230v, Ultraschall, Microwellen, Mikrowelle, PIR Sensor, Personen, Erkennen, Schalter, Alarm, Lampe, Volt
+
+## Preis: 14,90 €
